@@ -1,7 +1,10 @@
 ## Hi there 👋 I'm **Priya Gandhi**
 
-🎓 I am a Master's student in Computer Science, passionate about software architecture, engineering principles, and system design.
+🎓 I am a Master's student in Computer Science, passionate about **software architecture**, **engineering principles**, and **system design**.
+
 🚀 I’m currently working on building a **YouTube-like project** to deepen my understanding of **software design and architecture concepts**.
+
+---
 
 ### 📫 How to reach me
 
@@ -12,6 +15,12 @@
 <a href="mailto:pgandhi4@ncsu.edu" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" />
 </a>
+&nbsp;&nbsp;
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" />
+</a>
+
+---
 
 ### 🛠️ Skills
 
@@ -59,15 +68,16 @@ Docker, Kubernetes, Git, CI/CD, Linux, AWS
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/your-username">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyaGandhi311&show_icons=true&theme=default" alt="Priya's GitHub stats" />
+<a href="https://github.com/PriyaGandhi311">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyaGandhi311&show_icons=true&theme=tokyonight" alt="Priya's GitHub stats" />
 </a>
 
 <br/>
 
-<a href="https://github.com/your-username">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGandhi311&layout=compact&theme=default" alt="Top Languages" />
+<a href="https://github.com/PriyaGandhi311">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGandhi311&layout=compact&theme=tokyonight" alt="Top Languages" />
 </a>
 
+---
 
 ⭐️ From [Priya Gandhi](https://github.com/PriyaGandhi311)
