@@ -38,7 +38,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" />
 </p>
 -->
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" /> <b>C</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" /> <b>C++</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" /> <b>Java</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" /> <b>Python</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" /> <b>JavaScript</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" /> <b>TypeScript</b> &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" /> <b> SQL </b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" /> <b>Ruby</b> </p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original-wordmark.svg" alt="C" width="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="90"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JavaScript" width="120"/>
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript" width="120"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="SQL" width="120"/>
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg" alt="Ruby" width="120"/>
+
+</p>
 
 #### **Frontend**
 <p>
