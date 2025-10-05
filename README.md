@@ -34,12 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JavaScript" width="120" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript" width="120" />
   <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" width="120" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="SQL" width="120" />
-  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg"  alt="SQL" width="40" />
-  <img src="https://static-00.iconduck.com/assets.00/sql-icon-1024x1024-1o9l7bvx.png" alt="SQL" width="120" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="120" />
-
-
 </p>
 
 #### **Frontend**
