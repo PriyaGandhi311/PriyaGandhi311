@@ -3,6 +3,7 @@
 🎓 I am a Master's student in Computer Science, passionate about **software architecture**, **engineering principles**, and **system design**.
 
 🚀 I’m currently working on building a **YouTube-like project** to deepen my understanding of **software design and architecture concepts**.
+
 ![Profile Views](https://komarev.com/ghpvc/?username=PriyaGandhi311&label=Profile%20Views&color=0e75b6&style=flat)
 ---
 
