@@ -78,7 +78,3 @@ Docker, Kubernetes, Git, CI/CD, Linux, AWS
 <a href="https://github.com/PriyaGandhi311">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGandhi311&layout=compact&theme=tokyonight" alt="Top Languages" />
 </a>
-
----
-
-⭐️ From [Priya Gandhi](https://github.com/PriyaGandhi311)
