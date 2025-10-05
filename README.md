@@ -6,8 +6,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PriyaGandhi311&label=Profile%20Views&color=0e75b6&style=flat)
 
-![Snake animation](https://github.com/PriyaGandhi311/PriyaGandhi311/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 📫 How to reach me
