@@ -18,7 +18,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" />
 </a>
 &nbsp;&nbsp;
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://priya-gandhi.netlify.app/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" />
 </a>
 
